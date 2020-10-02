@@ -4,6 +4,9 @@
   "license": "WTFPL",
   "author": "Nolan Rigo <nolan@rigo.dev>",
   "main": "dist/index.js",
+  "scripts": {
+    "prepublishOnly": "make build"
+  },
   "dependencies": {},
   "devDependencies": {
     "@nolanrigo/prettier-config": "^3.0.2",
