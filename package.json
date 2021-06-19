@@ -1,6 +1,6 @@
 {
   "name": "@nolanrigo/env",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "license": "WTFPL",
   "author": "Nolan Rigo <nolan@rigo.dev>",
   "main": "dist/index.js",
